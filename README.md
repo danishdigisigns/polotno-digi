@@ -7,3 +7,4 @@ Design Editor made with [Polotno SDK](https://polotno.com/). It several customiz
 ### Found a bug? Or want to suggest a feature?
 
 Just create an issues in this repository!
+https://staging.d178in59zhjky2.amplifyapp.com/
